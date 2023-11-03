@@ -16,10 +16,8 @@ This repo is aiming to share all startup funding opportunies, including pre-seed
 
 | Accelerator | Round | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| **[a16z](https://info.a16z.com/TxO-Application-Form.html)** | Pre-Seed/Seed | USA | <a href="https://info.a16z.com/TxO-Application-Form.html">Apply</a> | Nov 3 |
-
 | **[YC Combinator](https://www.ycombinator.com/apply)** | Pre-Seed/Seed (500K) | SF, CA | <a href="https://www.ycombinator.com/apply">Apply</a> | 🔒 |
-
+| **[a16z](https://info.a16z.com/TxO-Application-Form.html)** | Pre-Seed/Seed | USA | <a href="https://info.a16z.com/TxO-Application-Form.html">Apply</a> | Nov 3 |
 
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
