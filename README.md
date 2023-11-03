@@ -1,6 +1,6 @@
 # Startup Funding Opportunies 2023 & 2024
 
-This repo is aiming to share all startup funding opportunies, including pre-seed, seed round accelerator, to startup competitions.
+This repo is aiming to share all startup funding opportunies, including pre-seed, seed round accelerator, to startup competitions (using the format of <a href="https://github.com/SimplifyJobs/Summer2024-Internships">Pittcsc Internship Repo</a> ).
 <!-- 
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/Summer2024-Internships/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏 -->
 
