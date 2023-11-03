@@ -12,7 +12,7 @@ This repo is aiming to share all startup funding opportunies, including pre-seed
 
 | Accelerator | Round | Location | Application/Link | Date Posted |
 | ------- | ---- | -------- | ---------------- | ----------- |
-| **[YC Combinator](https://www.ycombinator.com/apply)** | Pre-Seed/Seed (500K) | SF, CA | <a href="https://www.ycombinator.com/apply"><img src="https://i.imgur.com/w6lyvuC.png" width="130" height = "30" alt="Apply"></a> | Nov 03 |
+| **[YC Combinator](https://www.ycombinator.com/apply)** | Pre-Seed/Seed (500K) | SF, CA | <a href="https://www.ycombinator.com/apply">| Nov 03 |
 
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
