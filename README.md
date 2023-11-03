@@ -7,7 +7,7 @@ This repo is aiming to share all startup funding opportunies, including pre-seed
 ---
 
 ## The List 🚴🏔
-[⬇️ Jump to bottom ⬇️](https://github.com/CoderJeffrey/Startup-funding-opportunitiess#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
+[⬇️ Jump to bottom ⬇️](https://github.com/CoderJeffrey/Startup-funding-opportunitiess#we-love-our-contributors)
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
 | Accelerator | Round | Location | Application/Link | Date Posted |
@@ -16,12 +16,11 @@ This repo is aiming to share all startup funding opportunies, including pre-seed
 
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
-[⬆️ Back to Top ⬆️](https://github.com/CoderJeffrey/Startup-funding-opportunities#the-list-)
+[⬆️ Back to Top ⬆️](https://github.com/CoderJeffrey/Startup-funding-opportunities#Contributors)
 
-## We love our contributors ❤️❤️
+## Contributors
 
 Contribute by submitting an [issue](https://github.com/CoderJeffrey/Startup-funding-opportunities/issues/new/choose)!
 <a href="https://github.com/CoderJeffrey/Startup-funding-opportunities/graphs/contributors">
 <img src="https://contrib.rocks/image?repo=CoderJeffrey/Startup-funding-opportunitiess&columns=24&max=480" />
 </a>
-_Made with [contrib.rocks](https://contrib.rocks)._
