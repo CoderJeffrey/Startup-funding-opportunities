@@ -26,5 +26,3 @@ Contribute by submitting an [issue](https://github.com/CoderJeffrey/Startup-fund
 <a href="https://github.com/CoderJeffrey/Startup-funding-opportunities/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=CoderJeffrey/Startup-funding-opportunities" />
 </a>
-
-Made with [contrib.rocks](https://contrib.rocks).
