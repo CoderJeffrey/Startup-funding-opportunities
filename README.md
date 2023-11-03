@@ -1,13 +1,12 @@
 # Startup Funding Opportunies 2023 & 2024
 
 This repo is aiming to share all startup funding opportunies, including pre-seed, seed round accelerator, to startup competitions (using the format of <a href="https://github.com/SimplifyJobs/Summer2024-Internships">Pittcsc Internship Repo</a> ).
-<!-- 
-🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/Summer2024-Internships/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏 -->
 
+🙏 **Contribute by submitting an [issue](https://github.com/CoderJeffrey/Startup-funding-opportunities/issues/new/choose)!
 ---
 
 ## The List 🚴🏔
-[⬇️ Jump to bottom ⬇️](https://github.com/CoderJeffrey/Startup-funding-opportunitiess#we-love-our-contributors)
+[⬇️ Jump to bottom ⬇️](https://github.com/CoderJeffrey/Startup-funding-opportunities#Contributors)
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
 
 | Accelerator | Round | Location | Application/Link | Date Posted |
@@ -16,7 +15,7 @@ This repo is aiming to share all startup funding opportunies, including pre-seed
 
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
-[⬆️ Back to Top ⬆️](https://github.com/CoderJeffrey/Startup-funding-opportunities#Contributors)
+[⬆️ Back to Top ⬆️](https://github.com/CoderJeffrey/Startup-funding-opportunities#the-list-)
 
 ## Contributors
 
