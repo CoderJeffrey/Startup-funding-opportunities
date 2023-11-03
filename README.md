@@ -21,6 +21,8 @@ This repo is aiming to share all startup funding opportunies, including pre-seed
 ## Contributors
 
 Contribute by submitting an [issue](https://github.com/CoderJeffrey/Startup-funding-opportunities/issues/new/choose)!
+
+
 <a href="https://github.com/CoderJeffrey/Startup-funding-opportunities/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=CoderJeffrey/Startup-funding-opportunities" />
 </a>
