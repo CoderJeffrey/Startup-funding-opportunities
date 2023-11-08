@@ -36,6 +36,7 @@ This repo is aiming to share all startup funding opportunies, including pre-seed
 | **[Founders Factory](https://foundersfactory.com/)** | Pre-Seed/Seed | Global | <a href="https://foundersfactory.com/">Apply</a> | Rolling |
 | **[Mass Challenge](https://masschallenge.org/)** | Pre-Seed/Seed | <details><summary>**Mutliple Locations**</summary>Boston, MA<br>Austin, TX<br>Houston, TX<br>Dallas, TX</details> | <a href="https://accelerate.masschallenge.org/accounts/register/">Apply</a> | Rolling |
 | **[Entrepreneurs Roundtable Accelerator (WT24)](https://www.eranyc.com/)** | Seed (150K/6% equity) | New York, USA | <a href="https://www.eranyc.com/apply/">Apply</a> | Nov 6, 2023 |
+| **[Village Capital](https://vilcap.com/)** | Pre-Seed/Seed | Global | <a href="https://vilcap.com/programs">Apply</a> | Rolling |
 
 
 
