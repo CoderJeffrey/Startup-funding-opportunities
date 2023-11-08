@@ -28,7 +28,7 @@ This repo is aiming to share all startup funding opportunies, including pre-seed
 | **[Amplify.LA](http://amplify.la)** | Pre-Seed/Seed (50K-150K/5-15% equity) | Los Angeles, CA, US | <a href="https://amplify.la/contact/">Apply</a> | Rolling |
 | **[NFX](http://www.nfx.com/company/growth)** | Seed (1-5M) | Palo Alto, CA, US | <a href="https://signal.nfx.com/login">Apply</a> | Rolling |
 | **[Boost VC](http://www.boost.vc)** | Pre-Seed/Seed | Silicon Valley, CA, US | <a href="https://boostvc.submittable.com/submit">Apply</a> | Jan 2024 |
-| **[Andreessen Horowitz VC](https://a16z.com/)** | Pre-Seed/Seed | USA | <a href="https://info.a16z.com/TxO-Application-Form.html">Apply</a> | Rolling |
+| **[Andreessen Horowitz VC](https://a16z.com/)** | Pre-Seed/Seed | USA | <a href="https://info.a16z.com/TxO-Application-Form.html">Apply</a> | Rolling | 
 
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
