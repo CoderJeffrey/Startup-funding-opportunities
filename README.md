@@ -21,7 +21,7 @@ This repo is aiming to share all startup funding opportunies, including pre-seed
 | **[YC Combinator (SP24)](https://www.ycombinator.com/apply)** | Pre-Seed/Seed (500K) | SF, CA | <a href="https://www.ycombinator.com/apply">Apply</a> | 🔒 |
 | **[a16z](https://info.a16z.com/TxO-Application-Form.html)** | Pre-Seed/Seed | USA | <a href="https://info.a16z.com/TxO-Application-Form.html">Apply</a> |  Rolling |
 | **[500startups](http://500.co)** | Pre-Seed/Seed | Silicon Valley, CA, US | [Apply](http://500.co) | Rolling |
-| **[AngelPad](http://angelpad.com/)** | Pre-Seed/Seed (120K) | San Francisco, CA / New York, NY, US | <a href="http://angelpad.com/">Apply</a> | 🔒 |
+| **[AngelPad](http://angelpad.com/)** | Pre-Seed/Seed (120K) | <details><summary>**Mutliple Locations**</summary>San Francisco, CA<br>New York, NY, US</details>| <a href="http://angelpad.com/">Apply</a> | 🔒 |
 | **[Mucker Lab (SP24)](http://muckerlab.com)** | Pre-Seed/Seed (100K-175K/10-15% equity) | Santa Monica, CA, US | <a href="https://airtable.com/appCBXWRvcmsRBylG/shr9wDy6T7sY8O72u">Apply</a> | February 2, 2024 |
 | **[Mucker Lab (SM24)](http://muckerlab.com)** | Pre-Seed/Seed (100K-175K/10-15% equity) | Santa Monica, CA, US | <a href="https://airtable.com/appCBXWRvcmsRBylG/shr9wDy6T7sY8O72u">Apply</a> | April 26, 2024 |
 | **[The Alchemist Accelerator](http://www.alchemistaccelerator.com/)** | Pre-Seed/Seed | Silicon Valley, CA, US | <a href="https://www.alchemistaccelerator.com/apply?hsCtaTracking=158cbd02-6c3d-4216-bc77-8041cac65ee1%7C09bb0443-2928-405b-ba25-3831dbfaebce">Apply</a> | Dec 29, 2023 |
@@ -30,6 +30,11 @@ This repo is aiming to share all startup funding opportunies, including pre-seed
 | **[Boost VC](http://www.boost.vc)** | Pre-Seed/Seed | Silicon Valley, CA, US | <a href="https://boostvc.submittable.com/submit">Apply</a> | Jan 2024 |
 | **[Andreessen Horowitz VC](https://a16z.com/)** | Pre-Seed/Seed | USA | <a href="https://info.a16z.com/TxO-Application-Form.html">Apply</a> | Rolling | 
 | **[H Venture Partners](https://h.ventures/)** | Pre-Seed/Seed | Cincinnati, Ohio, US | <a href="https://h.ventures/pitch-us">Apply</a> | Rolling |
+| **[Plug and Play](https://www.plugandplaytechcenter.com/)** | Pre-Seed/Seed | Various Locations, US | <a href="https://www.plugandplaytechcenter.com/join/">Apply</a> | Rolling |
+| **[Dreamit](https://www.dreamit.com/)** | Pre-Seed/Seed | USA | <a href="https://www.dreamit.com/getstarted">Apply</a> | Rolling |
+| **[Founders Factory](https://foundersfactory.com/)** | Pre-Seed/Seed | Global | <a href="https://foundersfactory.com/">Apply</a> | Rolling |
+| **[Mass Challenge](https://masschallenge.org/)** | Pre-Seed/Seed | <details><summary>**Mutliple Locations**</summary>Boston, MA<br>Austin, TX<br>Houston, TX<br>Dallas, TX</details> | <a href="https://accelerate.masschallenge.org/accounts/register/">Apply</a> | Rolling |
+
 
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
