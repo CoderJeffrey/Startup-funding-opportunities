@@ -12,6 +12,7 @@ This repo is aiming to share all startup funding opportunies, including pre-seed
  - 🔒 - Application is closed
  - SP24 (Spring 2024)
  - SM24 (Summer 2024)
+ - WT24 (Winter 2024)
 
 [⬇️ Jump to bottom ⬇️](https://github.com/CoderJeffrey/Startup-funding-opportunities#Contributors)
 <!-- Please leave a one line gap between this and the table TABLE_START (DO NOT CHANGE THIS LINE) -->
@@ -34,6 +35,7 @@ This repo is aiming to share all startup funding opportunies, including pre-seed
 | **[Dreamit](https://www.dreamit.com/)** | Pre-Seed/Seed | USA | <a href="https://www.dreamit.com/getstarted">Apply</a> | Rolling |
 | **[Founders Factory](https://foundersfactory.com/)** | Pre-Seed/Seed | Global | <a href="https://foundersfactory.com/">Apply</a> | Rolling |
 | **[Mass Challenge](https://masschallenge.org/)** | Pre-Seed/Seed | <details><summary>**Mutliple Locations**</summary>Boston, MA<br>Austin, TX<br>Houston, TX<br>Dallas, TX</details> | <a href="https://accelerate.masschallenge.org/accounts/register/">Apply</a> | Rolling |
+| **[Entrepreneurs Roundtable Accelerator (WT24)](https://www.eranyc.com/)** | Seed (150K/6% equity) | New York, USA | <a href="https://www.eranyc.com/apply/">Apply</a> | Nov 6, 2023 |
 
 
 
