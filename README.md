@@ -1,6 +1,6 @@
 # Startup Funding Opportunies 2023 & 2024 (US)
 
-This repo is aiming to share all startup funding opportunies, including pre-seed, seed round accelerator, to startup competitions (using the format of <a href="https://github.com/SimplifyJobs/Summer2024-Internships">Pittcsc Internship Repo</a> ).
+This repo is aiming to share all startup funding opportunies, including pre-seed, seed round accelerator/venture capital (using the format of <a href="https://github.com/SimplifyJobs/Summer2024-Internships">Pittcsc Internship Repo</a> ).
 
 🙏 **Contribute** by submitting an [issue](https://github.com/CoderJeffrey/Startup-funding-opportunities/issues/new/choose) or [pull-request](https://github.com/CoderJeffrey/Startup-funding-opportunities/pulls)!
 ---
@@ -39,7 +39,8 @@ This repo is aiming to share all startup funding opportunies, including pre-seed
 | **[Village Capital](https://vilcap.com/)** | Pre-Seed/Seed | Global | <a href="https://vilcap.com/programs">Apply</a> | Rolling |
 | **[AlphaLab](https://www.alphalab.org/)** | Pre-Seed/Seed (100K/2% equity) | USA | <a href="https://www.f6s.com/alapplication">Apply</a> | Rolling |
 | **[Jumpstart Foundry](https://jsf.co/)** | Pre-Seed/Seed (150K) | Nashville, TN, US | <a href="https://jsf.co/apply/">Apply</a> | Rolling |
-| **[SURGE Ventures](https://www.surgeventures.com/)** | Pre-Seed/Seed | Menlo Park, CA, US | <a href="https://www.surgeventures.com/apply">Apply</a> | Rolling |
+| **[SURGE Ventures (2023)](https://www.surgeventures.com/)** | Pre-Seed/Seed | Menlo Park, CA, US | <a href="https://www.surgeventures.com/apply">Apply</a> | Rolling |
+| **[RevUp Capital](https://www.revupfund.com/)** | Pre-Seed/Seed (350K-400K) | USA | <a href="https://docs.google.com/forms/d/e/1FAIpQLSe3LjCpDBUnVtd2IgNvZv
 
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
