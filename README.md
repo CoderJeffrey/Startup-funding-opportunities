@@ -22,6 +22,7 @@ This repo is aiming to share all startup funding opportunies, including pre-seed
 | **[YC Combinator (SP24)](https://www.ycombinator.com/apply)** | Pre-Seed/Seed (500K) | SF, CA | <a href="https://www.ycombinator.com/apply">Apply</a> | 🔒 |
 | **[a16z](https://info.a16z.com/TxO-Application-Form.html)** | Pre-Seed/Seed | USA | <a href="https://info.a16z.com/TxO-Application-Form.html">Apply</a> |  Rolling |
 | **[500startups](http://500.co)** | Pre-Seed/Seed | Silicon Valley, CA, US | [Apply](http://500.co) | Rolling |
+| **[Sequoia Capital](https://www.sequoiacap.com/)** | Seed (500K-1M) | USA | <a href="https://www.sequoiacap.com/arc/">Apply</a> | 🔒 |
 | **[AngelPad](http://angelpad.com/)** | Pre-Seed/Seed (120K) | <details><summary>**Mutliple Locations**</summary>San Francisco, CA<br>New York, NY, US</details>| <a href="http://angelpad.com/">Apply</a> | 🔒 |
 | **[Mucker Lab (SP24)](http://muckerlab.com)** | Pre-Seed/Seed (100K-175K/10-15% equity) | Santa Monica, CA, US | <a href="https://airtable.com/appCBXWRvcmsRBylG/shr9wDy6T7sY8O72u">Apply</a> | February 2, 2024 |
 | **[Mucker Lab (SM24)](http://muckerlab.com)** | Pre-Seed/Seed (100K-175K/10-15% equity) | Santa Monica, CA, US | <a href="https://airtable.com/appCBXWRvcmsRBylG/shr9wDy6T7sY8O72u">Apply</a> | April 26, 2024 |
