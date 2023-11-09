@@ -40,7 +40,7 @@ This repo is aiming to share all startup funding opportunies, including pre-seed
 | **[AlphaLab](https://www.alphalab.org/)** | Pre-Seed/Seed (100K/2% equity) | USA | <a href="https://www.f6s.com/alapplication">Apply</a> | Rolling |
 | **[Jumpstart Foundry](https://jsf.co/)** | Pre-Seed/Seed (150K) | Nashville, TN, US | <a href="https://jsf.co/apply/">Apply</a> | Rolling |
 | **[SURGE Ventures (2023)](https://www.surgeventures.com/)** | Pre-Seed/Seed | Menlo Park, CA, US | <a href="https://www.surgeventures.com/apply">Apply</a> | Rolling |
-| **[RevUp Capital](https://www.revupfund.com/)** | Pre-Seed/Seed (350K-400K) | USA | <a href="https://docs.google.com/forms/d/e/1FAIpQLSe3LjCpDBUnVtd2IgNvZv
+| **[RevUp Capital](https://www.revupfund.com/)** | Pre-Seed/Seed (350K-400K) | USA | <a href="https://docs.google.com/forms/d/e/1FAIpQLSe3LjCpDBUnVtd2IgNvZvV_uRC8mZJ0sioFCN2ZfFiLeGpvjQ/viewform">Apply</a> | Rolling |
 
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
