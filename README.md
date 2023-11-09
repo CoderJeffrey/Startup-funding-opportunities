@@ -37,7 +37,9 @@ This repo is aiming to share all startup funding opportunies, including pre-seed
 | **[Mass Challenge](https://masschallenge.org/)** | Pre-Seed/Seed | <details><summary>**Mutliple Locations**</summary>Boston, MA<br>Austin, TX<br>Houston, TX<br>Dallas, TX</details> | <a href="https://accelerate.masschallenge.org/accounts/register/">Apply</a> | Rolling |
 | **[Entrepreneurs Roundtable Accelerator (WT24)](https://www.eranyc.com/)** | Seed (150K/6% equity) | New York, USA | <a href="https://www.eranyc.com/apply/">Apply</a> | Nov 6, 2023 |
 | **[Village Capital](https://vilcap.com/)** | Pre-Seed/Seed | Global | <a href="https://vilcap.com/programs">Apply</a> | Rolling |
-
+| **[AlphaLab](https://www.alphalab.org/)** | Pre-Seed/Seed (100K/2% equity) | USA | <a href="https://www.f6s.com/alapplication">Apply</a> | Rolling |
+| **[Jumpstart Foundry](https://jsf.co/)** | Pre-Seed/Seed (150K) | Nashville, TN, US | <a href="https://jsf.co/apply/">Apply</a> | Rolling |
+| **[SURGE Ventures](https://www.surgeventures.com/)** | Pre-Seed/Seed | Menlo Park, CA, US | <a href="https://www.surgeventures.com/apply">Apply</a> | Rolling |
 
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
