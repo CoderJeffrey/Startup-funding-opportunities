@@ -2,7 +2,7 @@
 
 This repo is aiming to share all startup funding opportunies, including pre-seed, seed round accelerator/venture capital (using the format of <a href="https://github.com/SimplifyJobs/Summer2024-Internships">Pittcsc Internship Repo</a> ).
 
-🙏 **Contribute** by submitting an [issue](https://github.com/CoderJeffrey/Startup-funding-opportunities/issues/new/choose) or [pull-request](https://github.com/CoderJeffrey/Startup-funding-opportunities/pulls)!
+🙏 **Contribute** by submitting a [pull-request](https://github.com/CoderJeffrey/Startup-funding-opportunities/pulls)!
 ---
 
 ## The List 🚴🏔
@@ -48,7 +48,7 @@ This repo is aiming to share all startup funding opportunies, including pre-seed
 
 ## Contributors
 
-Contribute by submitting an [issue](https://github.com/CoderJeffrey/Startup-funding-opportunities/issues/new/choose) or [pull-request](https://github.com/CoderJeffrey/Startup-funding-opportunities/pulls)!
+Contribute by submitting a [pull-request](https://github.com/CoderJeffrey/Startup-funding-opportunities/pulls)!
 
 
 <a href="https://github.com/CoderJeffrey/Startup-funding-opportunities/graphs/contributors">
